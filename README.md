@@ -83,3 +83,9 @@ l'anello viene nuovamente perso.
 
 ## Struttura avanzata
 - Variazione nelle pareti
+
+## UI e Storia
+- Intro
+- Start New game
+- Level Selection
+- Victory Screen
